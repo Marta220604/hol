@@ -4,6 +4,11 @@ public class Prueba {
 
 	public static void main(String[] args) {
 		System.out.print("mensaje1");
+		
+		
+		System.out.print("mensaje2");
+		System.out.print("mensaje3");
+		
 	}
 
 }
