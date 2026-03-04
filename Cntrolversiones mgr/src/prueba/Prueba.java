@@ -9,6 +9,9 @@ public class Prueba {
 		System.out.print("mensaje2");
 		System.out.print("mensaje3");
 		
+		System.out.print("mensaje4");
+		System.out.print("mensaje5");
+		
 	}
 
 }
